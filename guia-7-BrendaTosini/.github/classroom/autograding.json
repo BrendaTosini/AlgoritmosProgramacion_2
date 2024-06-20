@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Todas las pruebas",
+      "setup": "",
+      "run": "go test ejercicios/ejercicios_test.go",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}

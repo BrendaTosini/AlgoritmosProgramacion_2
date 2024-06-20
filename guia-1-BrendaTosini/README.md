@@ -1,0 +1,36 @@
+[![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-f4981d0f882b2a3f0472912d15f9806d57e124e0fc890972558857b51b24a6f9.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=10595562)
+<h1 align="center">Guía 1</h1>
+
+<h3 align="center">Análisis de Algoritmos</h2>
+
+<h4>Mediciones</h4>
+
+En la carpeta 00-mediciones se encuentran algunos algoritmos de búsqueda conocidos. 
+
+En main dentro de 00-mediciones, se encuentra un ejemplo de como medir el tiempo que demora la ejecución de una función.
+
+Se pide:
+
+1. Tomar mediciones para N=1.000,10.000,...,10.000.000 de los algoritmos de búsquedas. Guardar los resultados en una plantilla de cálculo y graficar ambas tablas en un mismo gráfico. Verificar si las curvas obtenidas se aproximan a las curvas teóricas.
+
+2. Implementar el algoritmo de ordenamiento de burbujeo, escribir tests y tomar las mismas mediciones que el punto anterior
+
+<h4>Subsecuencia de Suma Máxima</h4>
+
+El problema del subsecuencia de suma máxima consiste en encontrar una secuencia (en posiciones consecutivas) cuya suma sea máxima dentro de un arrego original. Por ejemplo: en el arreglo -1,6,-2,5,-1,4,3,-4,3. 1 la subsecuencia de suma máxima es 6,-2,5,-1,4,3, cuya suma es 15.
+
+1. Analizar el orden de la función SubsecuenciaSumaMaxima
+
+2. Encontrar otra solución que sea O(N)
+
+<h4>El mito de la máquina superpoderosa</h4>
+
+1. Mirar el siguiente video, analizar y sacar tus propias conclusiones
+
+<a href="https://www.youtube.com/watch?v=oSPkod-M6Gc&t=2s">El Problema del Viajante de Comercio</a>
+
+2. Clonar la siguiente 
+
+<a href="https://docs.google.com/spreadsheets/d/1i1jjbYdJ63bpxtnJy2ZiMYXDjYz4bIOcJqGDrb1qE1g/copy">Planilla de cálculo</a>
+
+Completar los cálculos, probar con distintas velocidades de CPU y obtener tus propias conclusiones

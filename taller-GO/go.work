@@ -1,0 +1,15 @@
+go 1.20
+
+use (
+	./00-hola
+	./01-tipodatos
+	./02-variables
+	./03-constantes
+	./04-funciones
+	./05-condicionales
+	./06-ciclos
+	./07-punteros
+	./08-arreglos
+	./09-mapas
+	./10-figuras
+)

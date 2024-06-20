@@ -1,0 +1,15 @@
+go 1.20
+
+use (
+	./arreglos01
+	./arreglos02
+	./arreglos03
+	./ejercicio1
+	./ejercicio2
+	./ejercicio3
+	./estructurasEinterfaces
+	./estructurasRepetitivas01
+	./estructurasRepetitivas02
+	./estructurasRepetitivas03
+	./punteros
+)

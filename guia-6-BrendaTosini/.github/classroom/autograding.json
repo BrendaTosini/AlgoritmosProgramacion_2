@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Test Informacion Solicitada",
+      "setup": "",
+      "run": "go test tests/ejercicios_test/InformacionSolicitada_test.go",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test Frecuencia",
+      "setup": "",
+      "run": "go test tests/ejercicios_test/frecuencia_test.go",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test Interseccion",
+      "setup": "",
+      "run": "go test tests/ejercicios_tests/interseccion_test.go",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Test Traducir",
+      "setup": "",
+      "run": "go test tests/ejercicios_test/traducir_test.go",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
